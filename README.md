@@ -1,7 +1,7 @@
 # python version: 3.10.5
 
 ###
-To run project you need python installed on your pc
+To run project you need python installed on your device
 ---
 [Get Python here](https://www.python.org/downloads/)
 
