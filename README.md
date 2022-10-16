@@ -5,7 +5,7 @@
 ###
 To run project you need python installed on your pc
 ---
-[Get python here:](https://www.python.org/downloads/)
+[Get Python here](https://www.python.org/downloads/)
 
 ##
 To build project 
