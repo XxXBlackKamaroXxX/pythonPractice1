@@ -1,0 +1,11 @@
+#header, .module h2, .module caption, .inline-group h2 {
+    background: rgb(174, 0, 255);
+}
+
+#branding h1 a:link, #branding h1 a:visited {
+    color: rgb(255, 255, 0);
+}
+
+div.breadcrumbs {
+    background: rgb(123, 0, 180);
+}
