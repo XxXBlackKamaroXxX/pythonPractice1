@@ -14,8 +14,7 @@ To build project
 ##
 To run project 
 > Do *./your environment name/Scripts/activate* (if not done)
->> Do *cd mysite*
->>> Do `python manage.py runserver`
+>> Do `python manage.py runserver`
 
 ##
 To deactivate virtual environment
