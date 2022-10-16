@@ -1,7 +1,11 @@
 # pythonPractice1
 
+# python version: 3.10.5
+
 ###
 To run project you need python installed on your pc
+---
+[Get python here]: https://www.python.org/downloads/
 
 ##
 To build project 
