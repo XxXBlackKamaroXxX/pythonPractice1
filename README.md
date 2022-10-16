@@ -1,5 +1,3 @@
-# pythonPractice1
-
 # python version: 3.10.5
 
 ###
